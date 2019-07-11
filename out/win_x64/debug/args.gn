@@ -1,0 +1,8 @@
+# Build arguments go here. Examples:
+is_component_build = true
+is_debug = true
+target_cpu = "x64"
+target_os = "win"
+extra_cflags = ["/MDd", "/wd4251" ]
+extra_ldflags = ["gdi32.lib", "Usp10.lib"]
+# See "gn args <out_dir> --list" for available build arguments.
