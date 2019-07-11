@@ -6,7 +6,9 @@ Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 See full details at https://skia.org.
 
 ## Build
-You will first need to install Chromium's depot tools. Follow the instructions at http://www.chromium.org/developers/how-tos/install-depot-tools.
+Install Chromium's depot tools. Follow the instructions at http://www.chromium.org/developers/how-tos/install-depot-tools.
+
+The build steps below should be run from an x64 Native Command Prompt for Visual Studio.
 
 ```bash
 # Clone the source
