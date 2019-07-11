@@ -1,5 +1,5 @@
 ## Skia
-This fork maintains an earlier version of Skia from Mar 3 2017 with a few minor fixes added.
+This fork maintains an earlier version of Skia from [Mar 3 2017](https://github.com/google/skia/tree/4447b64a88ea141161fca772c2fec28b6141bbc3) with a few minor fixes added.
 
 Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 
